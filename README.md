@@ -46,3 +46,8 @@ I decided to cut vocabulary on about ~11.000 total words (all the words that app
 Training took about 35 minutes on an RTX 2070.
 
 You can test the result by running the `run.py` command.
+
+### Disclaimer
+As said at the beginning, most of the implementation is based on code given on a keras tutorial, and I can't assure anyone everything is correct and optimized.
+
+I tried to make most of the classes and functions readable and well-documented, but there might be mistakes here and there.
