@@ -1,0 +1,8 @@
+{
+    "max_seq_length": 70,
+    "vocab_size": 11815,
+    "embed_dim": 256,
+    "num_heads": 4,
+    "feed_forward_dim": 1024,
+    "num_transformer_blocks": 2
+}
